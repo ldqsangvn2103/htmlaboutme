@@ -67,8 +67,9 @@
 html,body{
   height: 100%;
   user-select: none;
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  cursor: url('../assets/img/cursor.png'), auto;	
 }
 *,
 *::before,
