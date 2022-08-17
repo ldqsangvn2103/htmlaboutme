@@ -47,7 +47,7 @@
                         <a class="social-icon" href="https://facebook.com/ldqsangvn2103" target="_blank"><i class="fab fa-facebook-f"></i></a>
                         <a class="social-icon" href="https://instagram.com/ldqsangvn2103" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a class="social-icon" href="https://twitter.com/ldqsangvn2103" target="_blank"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="https://github.com/ldqsangvn2103" target="_blank"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
             </section>
