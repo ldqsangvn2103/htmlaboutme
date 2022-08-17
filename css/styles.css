@@ -69,7 +69,6 @@ html,body{
   user-select: none;
   -ms-overflow-style: none;
   scrollbar-width: none;
-  cursor: url('../assets/img/cursor.png'), auto;	
 }
 *,
 *::before,
