@@ -115,9 +115,11 @@
   integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
   crossorigin="anonymous"></script>
         <script>
-            $(document).bind("contextmenu",function(e){
-  return false;
-    });
+$(document).ready(function(){
+   $(document).bind("contextmenu",function(e){
+      return false;
+   });
+});
         </script>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
